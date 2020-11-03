@@ -23,9 +23,12 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+<i>Hello I am @File2X's Media Finder Bot</i>
 
-Here you can search files in inline mode. Just press following buttons and start searching.
+<b>Here you can search files which are uploaded on @File2UX You Can Use This Bot In Inline</b>
+
+Creadits:- @MoviMob & @userisoffline
+
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
