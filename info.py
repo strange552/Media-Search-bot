@@ -23,11 +23,11 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-<i>Hello I am @File2X's Media Finder Bot</i>
+<i>Hello I am @File2UX's Media Finder Bot</i>
 
 <b>Here you can search files which are uploaded on @File2UX You Can Use This Bot In Inline</b>
 
-Creadits:- @MoviMob & @userisoffline
+IF Want To Request Any Movies or Series Use <a href='http://telegram.me/File2UReqbot?start'>This Bot</a>
 
 """
 
