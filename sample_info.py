@@ -20,9 +20,9 @@ COLLECTION_NAME ='channel_files' # If you going to use same database, then use d
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+<i>Hello I am @File2X Media Finder Bot</i>
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+<b>Here you can search files which are uploaded on @File2UX You Can Use This Bot In Inline</b>
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
