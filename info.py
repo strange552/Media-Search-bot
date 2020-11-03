@@ -27,9 +27,9 @@ START_MSG = """
 
 <b>Here you can search files which are uploaded on @File2UX You Can Use This Bot In Inline</b>
 
-<a href='https://t.me/File2UChat/1501'>Click This To Know How To Use This Bot</a>
-
 IF Want To Request Any Movies or Series Use <a href='http://telegram.me/File2UReqbot?start'>This Bot</a>
+
+<a href='https://t.me/File2UChat/1501'>How To Use This Bot 👇</a>
 
 """
 
