@@ -33,4 +33,4 @@ START_MSG = """
 
 """
 
-SHARE_BUTTON_TEXT = 'Checkout an Aweasome Bot {username} for searching @File2UX files'
+SHARE_BUTTON_TEXT = 'Checkout an Awesome Bot {username} for searching @File2UX files'
